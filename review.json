@@ -1,22 +1,16 @@
 {
-  "znamka": 6,
+  "znamka": 7,
   "slabiny": [
-    "Hero na PC: fotka je jen karta asi 230×170 px vpravo a ukazuje prázdnou třídu s hračkami, takže úvod pořád stojí hlavně na textu a bublinách. Oprava: fotku zvětšit, aby vyplnila celou pravou polovinu hero na plnou výšku. Použít snímek s lidmi z výuky, třeba ten s lektorem a dětmi ze sekce Ako to robíme?. Bubliny nechat přes fotku jako vrstvu.",
-    "Hero na PC i mobilu: bubliny ¡Hola! (španielčina) a Bonjour! (francúzština) tam zůstaly, i když meta popis, title i Pre študentov uvádějí jen angličtinu a nemčinu. Oprava: obě bubliny odstranit a nechat jen Hello! a Guten Tag!. Případně je vrátit až poté, co brief doloží kurzy španělštiny a francouzštiny z e-xtra.sk.",
-    "Hero a Pobočky a kontakt / patička (PC i mobil): pod CTA zůstala věta „Prihlasovanie na školský rok 2026/2027 je spustené.“ a v kontaktu řádek „MT – EduHouse s.r.o., Kvetná 201/2, 082 56 Pečovská Nová Ves · IČO 47990082“. Brief nic z toho nedokládá. Oprava: stav přihlašování, provozovatele a IČO ověřit na e-xtra.sk (kontakt, obchodní podmínky) a zapsat do brief.json se zdrojem. Pokud to nejde doložit, obojí smazat."
+    "Hero na PC (1440 px): tato výtka z minula opravená není. Fotka je pořád jen karta asi 230×170 px vpravo a ukazuje prázdnou třídu s hračkami, takže úvod dál stojí na nadpisu a bublinách. Fotku zvětšit, aby vyplnila celou pravou polovinu hero na plnou výšku. Použít snímek s lektorem a dětmi ze sekce Ako to robíme? (galerie e-xtra.sk) a čtyři jazykové bubliny dát jako vrstvu přes spodní okraj fotky.",
+    "Hero na mobilu (390 px): bubliny Hello!, Guten Tag!, ¡Hola! a Bonjour! se oddělily od fotky. Pod ní tvoří samostatný blok, který zabere skoro celou druhou obrazovku, než přijde Ponuka kurzov. Fotku nahradit snímkem z výuky a bubliny dát přes její spodní hranu jako kompaktní řadu nebo mřížku 2×2, aby Ponuka kurzov začínala hned na druhé obrazovce.",
+    "Ponuka kurzov a SEO (PC i mobil): hero teď podle briefu nabízí čtyři jazyky, ale title, meta description a řádek Pre študentov uvádějí jen angličtinu a nemčinu. Do title a meta description doplnit „angličtiny, nemčiny, španielčiny a francúzštiny“ (stejně jako na e-xtra.sk). V úvodu Ponuky kurzov uvést všechny čtyři jazyky, aby web neříkal na dvou místech něco jiného."
   ],
-  "zavazne": [
-    "Hero (PC i mobil): bubliny ¡Hola! španielčina a Bonjour! francúzština slibují kurzy španělštiny a francouzštiny, které brief nedokládá. Minulá výtka nebyla opravena.",
-    "Hero (PC i mobil): věta „Prihlasovanie na školský rok 2026/2027 je spustené.“ nemá v briefu žádný zdroj. Minulá výtka nebyla opravena.",
-    "Pobočky a kontakt (PC i mobil): provozovatel MT – EduHouse s.r.o., adresa Kvetná 201/2 a IČO 47990082 nejsou v briefu. Neověřené firemní údaje nesmí na webu být. Minulá výtka nebyla opravena."
-  ],
+  "zavazne": [],
   "silne": [
-    "Výtka k fotkám je opravená. Web teď používá skutečné fotky školy: třídu v hero, výuku s lektorem v Ako to robíme? a tři fotky z tábora v Letném tábore. Všechny sedí k oboru i regionu.",
-    "Ako to robíme? má teď dva sloupce (fotka se štítkem Speak Direct Method ® vlevo, text vpravo) a Preklady a tlmočenie mají text s tlačítkem Objednať preklad vlevo a ceník vpravo. Prázdný střed stránky zmizel.",
-    "Brand je konzistentní: logo eXtra vlevo v hlavičce, modrá paleta z loga a bublinový motiv z loga u nadpisů. Telefon a tlačítko Napísať jsou stále v hlavičce.",
-    "Mobil vypadá navržený pro telefon: čitelné písmo, bez přetékání (QA 390 i 360 px), ceník rozložený do řádků a velká dotyková tlačítka.",
-    "Ceny překladů (18/19/20/24 €), více než 20 jazyků, expres do 12 hodin a tábor 5–14 let, 11. ročník odpovídají briefu."
+    "Logo e-Xtra je vlevo v hlavičce celé a ostré. Paleta drží modrou ze značky a bublinový motiv z loga se opakuje v nadpisech sekcí. Brand se pozná na první pohled.",
+    "Fakta, která minule chyběla, jsou teď v briefu doložená se zdrojem: španělština a francouzština, přihlašování na rok 2026/2027 i provozovatel MT – EduHouse s.r.o. s IČO 479 900 82 z obchodních podmínek. Ceny překladů, tábor (11. ročník, 5–14 let) a Speak Direct Method mají zdroj v briefu.",
+    "Fotky jsou vlastní, ze školy a z tábora. QA nenašlo žádné přetečení na 6 šířkách ani malé dotykové cíle. Telefon a e-mail jsou u hlavičky i v kontaktu a CTA Napísať škole je jasné."
   ],
-  "verdikt": "Fotky a kompozice na PC jsou opravené a web je teď výrazně lepší. Třetí výtka ale zůstala úplně bez opravy: v hero jsou dál nedoložené jazyky a stav přihlašování a v kontaktu neověřený provozovatel s IČO, takže známka nemůže stoupnout a web se nedá odeslat.",
-  "_hash": "78811e7bfab441d13e5141f2a45094a0f765ec53"
+  "verdikt": "Všechny tři závažné výtky jsou vyřešené tím, že brief teď obsah doložil se zdrojem z e-xtra.sk, takže je web pravdivý a známka jde nahoru. K odeslání chybí hlavně opravit hero, kde je pořád malá fotka prázdné třídy místo velkého snímku z výuky. Verdikt: opravit.",
+  "_hash": "0f33fb630e55a3bf9c5fd722966e05fd056c51f6"
 }
