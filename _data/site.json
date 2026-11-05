@@ -1,0 +1,31 @@
+{
+  "slug": "sk-extra",
+  "nazev": "Jazyková škola e-Xtra",
+  "url": "https://webhunter-navrhy.github.io/sk-extra/",
+  "base": "/sk-extra/",
+  "lang": "sk",
+  "popis": "Jazyková škola e-Xtra v Prešove a Sabinove: kurzy angličtiny a nemčiny pre deti, študentov a dospelých, preklady a tlmočenie.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "og.jpg",
+  "logo": "logo.png",
+  "theme_color": "#00a8e8",
+  "typ": "LanguageSchool",
+  "ico": "47990082",
+  "kontakt": {
+    "email": "info@e-xtra.sk",
+    "telefon": "0948 123 039",
+    "adresa": {"ulice": "Konštantínova 6", "psc": "080 01", "mesto": "Prešov", "zeme": "SK"}
+  },
+  "oteviraci_doba": [],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {"endpoint": "", "demo": true, "predmet": "Dopyt z webu e-xtra.sk"},
+  "nav": [
+    {"text": "Kurzy", "href": "#kurzy"},
+    {"text": "Ako učíme", "href": "#metoda"},
+    {"text": "Preklady", "href": "#preklady"},
+    {"text": "Letný tábor", "href": "#tabor"},
+    {"text": "Pobočky", "href": "#kontakt"}
+  ]
+}

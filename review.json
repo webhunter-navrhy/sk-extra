@@ -1,0 +1,17 @@
+{
+  "znamka": 6,
+  "slabiny": [
+    "Na celém webu není jediná fotka. V hero na PC zabírají pravou polovinu jen 4 bubliny na prázdné světle modré ploše, sekce Ako to robíme a Preklady jsou čistý text a v Letném tábore je jen malá karta s logem Extra Kids Camp. Oprava: do hero dát velkou reálnou fotku z výuky nebo pobočky v Prešově z e-xtra.sk (bubliny Hello!/Guten Tag! nechat přes ni jako vrstvu) a do sekce Letný tábor 2–3 skutečné fotky z tábora místo samotného loga.",
+    "Na PC působí střed stránky prázdně a drobně. Ako to robíme? má tři odstavce textu asi 13 px v úzkém sloupci uprostřed vysokého modrého pásu. V Preklady a tlmočenie zabírá ceník jen levých asi 440 px a pravá polovina je prázdná. Popisy v Ponuke kurzov jsou také asi 13 px. Oprava: text zvětšit na 16–17 px. V Ako to robíme? dát Speak Direct Method ® jako velký citát vlevo a text vpravo. Preklady rozdělit do dvou sloupců: text s tlačítkem Objednať preklad vlevo, ceník vpravo.",
+    "Obsah, který brief nedokládá. Bubliny v hero ¡Hola! (španielčina) a Bonjour! (francúzština) slibují kurzy, ale z webu (meta popis a Pre študentov) plyne jen angličtina a nemčina. Hláška Prihlasovanie na školský rok 2026/2027 je spustené a údaj MT – EduHouse s.r.o., Kvetná 201/2, IČO 47990082 v kontaktu a v patičce v briefu nejsou. Oprava: v hero nechat jen jazyky, které škola opravdu učí, a IČO, provozovatele i stav přihlašování ověřit na e-xtra.sk a doplnit do briefu, jinak je odstranit."
+  ],
+  "zavazne": [],
+  "silne": [
+    "Logo e-Xtra je vlevo v hlavičce a je ostré. Modrá paleta vychází z loga a vedle je vidět telefon i tlačítko Napísať.",
+    "Ceny překladů (18/19/20/24 €), skupiny nejvýš po 6, věk 3–14 a 5–14 let, 11. ročník tábora a obě pobočky odpovídají briefu.",
+    "Na mobilu nic nepřetéká, tlačítka jsou velká a formulář pohodlný. Pořadí obsahu dává smysl.",
+    "Žádná marquee, číslování 01/02/03, tmavé pásy ani zrno. Bubliny s pozdravy jsou čitelný jazykový nápad."
+  ],
+  "verdikt": "Opravit. Web je čistý a pravdivý a značku klienta drží, ale bez jediné fotky a s drobným textem v prázdných plochách působí jako obyčejná šablona, kterou by Rafael odmítl jako „nezajímavou“. Před odesláním doplnit skutečné fotky ze školy a z tábora a ověřit nabízené jazyky.",
+  "_hash": "f2a5007571154f73b9003cffc1ca9036b0f2e6fb"
+}
