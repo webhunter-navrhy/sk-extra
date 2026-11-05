@@ -179,3 +179,4 @@ body{font-size:1.125rem}
 .tabor-fotky img:nth-child(2){border-radius:1.4rem 1.4rem .4rem 1.4rem}
 @media(max-width:52rem){.metoda-grid,.pr-grid{grid-template-columns:1fr}.tabor-hlava{grid-template-columns:1fr}.camp-logo{width:9rem}.tabor-fotky{grid-template-columns:1fr 1fr}.tabor-fotky img:nth-child(3){grid-column:1/-1;aspect-ratio:16/9}.hero-foto .bubliny{position:static;transform:none;padding:.8rem 0 0}.hero-foto{padding-bottom:0}.hero-foto .b2,.hero-foto .b4{transform:none}.bubliny{order:0}.hero-foto img{aspect-ratio:3/2}}
 @media(min-width:52.01rem){.hero-grid{grid-template-columns:1fr 1fr}.hero-foto .bubliny{flex-wrap:nowrap}.hero-foto .b{padding:.5rem .9rem}}
+@media(min-width:52.01rem){.hero-foto img{aspect-ratio:auto;height:clamp(26rem,38vw,34rem)}}
